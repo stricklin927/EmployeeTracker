@@ -1,0 +1,26 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "A CMS to view and interact with information stored in the database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stricklin927/EmployeeTracker.git"
+  },
+  "keywords": [
+    "employee",
+    "tracker"
+  ],
+  "author": "Alexandra Stricklin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stricklin927/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/stricklin927/EmployeeTracker#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
